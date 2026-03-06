@@ -20,5 +20,8 @@ We recommend using `conda` to manage the environment.
 conda env create -f environment.yml
 ```
 
+## Pretrain
+code will come soon~~
 
-## code will come soon~~
+## finetune
+code will come soon~~
