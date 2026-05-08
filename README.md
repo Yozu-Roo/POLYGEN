@@ -112,7 +112,7 @@ python RL_generate.py \
 ```
 
 - `--tokenizer_path ` is your pre-trained model path
-- `--threshold ` is the threshold for screening elite individuals
+- `--threshold ` is the threshold for screening elite molecules 
 - `--n_epochs ` is the fine-tuning epochs
 - `--optimize_n_epochs ` is the optimization epochs
 - `--n_mol` is the number of molecules sampled each epoch
