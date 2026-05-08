@@ -25,7 +25,7 @@ POLYGEN is a deep learning-based framework for multi-target drug design, capable
 
 ## 2️⃣ Results
 
-✅ Pre-generated molecules are provided for download (including `QED`, `SA`, `Docking score`) along with comparison methods (some from [AIxFuse](https://github.com/biomed-AI/AIxFuse?tab=readme-ov-file) open-source data):
+✅ Pre-generated molecules are provided for download (including `QED`, `SA`, `Docking score`, `LogP`, `Weight`) along with comparison methods (some from [AIxFuse](https://github.com/biomed-AI/AIxFuse?tab=readme-ov-file) open-source data):
 
 - **GSK3β|JNK3 benchmark task**: `results/gsk3β_jnk3/POLYGEN.csv`
 - **RORγt|DHODH benchmark task**: `results/rorγt_dhodh/POLYGEN.csv`
