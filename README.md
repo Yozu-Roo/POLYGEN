@@ -1,12 +1,8 @@
 # 🎯 POLYGEN
 
-------
-
 POLYGEN is a deep learning-based framework for multi-target drug design, capable of generating molecules with potential activities against multiple targets. 
 
 ## 1️⃣ Directory Structure & Key Files
-
-------
 
 ```text
 /                         ← Root directory
@@ -29,8 +25,6 @@ POLYGEN is a deep learning-based framework for multi-target drug design, capable
 
 ## 2️⃣ Results
 
-------
-
 ✅ Pre-generated molecules are provided for download (including `QED`, `SA`, `Docking score`) along with comparison methods (some from AIxFuse open-source data):
 
 - **GSK3β|JNK3 benchmark task**: `results/gsk3β_jnk3/POLYGEN.csv`
@@ -39,8 +33,6 @@ POLYGEN is a deep learning-based framework for multi-target drug design, capable
 💡 To train from scratch, follow the steps below.
 
 ## 3️⃣ Quick Start
-
-------
 
 ### 3.1 📥 Clone Repository & Download Dataset
 
@@ -152,8 +144,6 @@ python generate.py \
 ------
 
 ## 4️⃣  Tips🌟
-
-------
 
 - Ensure all paths are correct to avoid file-not-found errors
 - GPU significantly speeds up training and generation
