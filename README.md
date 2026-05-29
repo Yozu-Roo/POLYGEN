@@ -1,6 +1,6 @@
 # 🎯 PolyPharm
 
-POLYGEN is a deep learning-based framework for multi-target drug design, capable of generating molecules with potential activities against multiple targets. 
+PolyPharm is a deep learning-based framework for multi-target drug design, capable of generating molecules with potential activities against multiple targets. 
 
 ## 1️⃣ Directory Structure & Key Files
 
